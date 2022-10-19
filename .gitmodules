@@ -1,0 +1,9 @@
+[submodule "podcastPOAP/smartcontract/lib/forge-std"]
+	path = podcastPOAP/smartcontract/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "podcastPOAP/smartcontract/lib/openzeppelin-contracts"]
+	path = podcastPOAP/smartcontract/lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
+[submodule "podcastPOAP/smartcontract/lib/solmate"]
+	path = podcastPOAP/smartcontract/lib/solmate
+	url = https://github.com/Rari-Capital/solmate
